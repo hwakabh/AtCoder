@@ -13,3 +13,7 @@ Tutorials for Initial AtCoder submit.
 
 - ABC081B : Shift Only
   - https://atcoder.jp/contests/abs/tasks/abc081_b
+
+- ABC087B : Coins
+  - https://atcoder.jp/contests/abs/tasks/abc087_b
+
