@@ -10,3 +10,6 @@ Tutorials for Initial AtCoder submit.
 
 - ABC081A : Placing Marbles
   - https://atcoder.jp/contests/abs/tasks/abc081_a
+
+- ABC081B : Shift Only
+  - https://atcoder.jp/contests/abs/tasks/abc081_b
