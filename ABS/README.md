@@ -17,3 +17,5 @@ Tutorials for Initial AtCoder submit.
 - ABC087B : Coins
   - https://atcoder.jp/contests/abs/tasks/abc087_b
 
+- ABC083B : Some Sums
+  - https://atcoder.jp/contests/abs/tasks/abc083_b
