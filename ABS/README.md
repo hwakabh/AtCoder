@@ -22,3 +22,6 @@ Tutorials for Initial AtCoder submit.
 
 - ABC088B : Card Game for Two
   - https://atcoder.jp/contests/abs/tasks/abc088_b
+
+- ABC085B : Kagami Mochi
+  - https://atcoder.jp/contests/abs/tasks/abc085_b
