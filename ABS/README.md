@@ -25,3 +25,6 @@ Tutorials for Initial AtCoder submit.
 
 - ABC085B : Kagami Mochi
   - https://atcoder.jp/contests/abs/tasks/abc085_b
+
+- ABC085C : Otoshidama
+  - https://atcoder.jp/contests/abs/tasks/abc085_c
