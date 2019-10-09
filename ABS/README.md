@@ -28,3 +28,7 @@ Tutorials for Initial AtCoder submit.
 
 - ABC085C : Otoshidama
   - https://atcoder.jp/contests/abs/tasks/abc085_c
+
+- ABC049C : Daydream
+  - https://atcoder.jp/contests/abs/tasks/arc065_a
+
